@@ -3,3 +3,4 @@
 // 2. Generate the HTML
 // 3. Make it interactive
 
+console.log('hello tim');

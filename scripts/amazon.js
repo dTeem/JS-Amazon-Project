@@ -94,6 +94,7 @@ products.forEach((product) =>
         </div>
     `;
     // Revert back the price with decimal
+    // update this code please 
 
 });
 

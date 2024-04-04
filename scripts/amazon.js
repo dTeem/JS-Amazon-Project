@@ -96,6 +96,7 @@ products.forEach((product) =>
     // Revert back the price with decimal
     // update this code please 
     // update mo na ako
+    // update mo na ako please 
 
 });
 

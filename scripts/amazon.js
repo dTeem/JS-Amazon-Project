@@ -3,6 +3,8 @@
 // 2. Generate the HTML
 // 3. Make it interactive
 
+// update this
+
 const products = 
 [
     {

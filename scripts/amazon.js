@@ -4,6 +4,7 @@
 // 3. Make it interactive
 
 // update this
+// galaw galaw naman
 
 const products = 
 [
